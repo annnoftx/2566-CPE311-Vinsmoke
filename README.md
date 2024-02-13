@@ -1,7 +1,7 @@
 # Drinking Water Dispenser System
 This project simulates system of water vending machine by using STM32L152RB microcontroller which written by C language and complied with Keil uVision 5. 
 
-### ***[Video Demo](https://drive.google.com/file/d/1NFzwzWs4v0S7MbVlSmbyAGirEvFAqOMT/view)  |  [Presentation](https://docs.google.com/presentation/d/1CWizwTaAZ7ISeOlb7eEn23BdznnQlNRtSNP5hpScRiU/edit#slide=id.g2b753baf4a6_1_33)  |  [Code](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/Project/src/main.c)***
+### ***[Video Demo Case1](https://drive.google.com/file/d/1iu6bIr4y-yecUIYdDHN-dAcqR0RujI5v/view) | [Video Demo Case2](https://drive.google.com/file/d/1NFzwzWs4v0S7MbVlSmbyAGirEvFAqOMT/view)  |  [Presentation](https://docs.google.com/presentation/d/1CWizwTaAZ7ISeOlb7eEn23BdznnQlNRtSNP5hpScRiU/edit#slide=id.g2b753baf4a6_1_33)  |  [Code](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/Project/src/main.c)***
 
 ## Let's get start
 ### Hardware
@@ -17,7 +17,8 @@ This project simulates system of water vending machine by using STM32L152RB micr
 - [Keil uVision 5](https://keil-vision.software.informer.com/5.0/ "Dowload Keil")
 
 ## Pin Allocation
-![alt text](https://cdn.discordapp.com/attachments/855283190037217280/1206691751059005460/image.png?ex=65dcee44&is=65ca7944&hm=ef591faeaba545a4f055878455cde5cc3e197d39a9ed3329d3543b4891bdd044&)
+![alt text](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/pin_allocation.png)
+![alt text](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/pinallocation.png)
 
 ## Usage
 1. Open the project in Keil uVision 5 and build the code.
@@ -43,21 +44,16 @@ Music plays while water is being dispensed.
 
 ## Gantt chart
 ![alt text](https://cdn.discordapp.com/attachments/855283190037217280/1206691653167882261/image.png?ex=65dcee2d&is=65ca792d&hm=edd1013c134faf54683bef2137a28e6831ea79a17fb3b1deb4f9e28e77005384&)
+
 ## Waterfall Model
-```bash
+![alt text](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/waterfall.png)
 
-
-
-
-```
 ## Block Diagram
-
-![alt text](https://cdn.discordapp.com/attachments/855283190037217280/1206683017620230174/image.png?ex=65dce622&is=65ca7122&hm=a6a9db97876bba3e605d0771768ed6c1372b3b4ec80d082c99e85a8158837b17&)
+![alt text](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/blockdiagram.png)
 
 
 ## Flowchart
-
-![alt text](https://cdn.discordapp.com/attachments/855283190037217280/1206690042807062558/FlowchartDiagram_CPE-311.drawio_2.png?ex=65dcecad&is=65ca77ad&hm=e3c5969d627f6d6bcaa9515c86af47a409fa1f03082ac903a641653220998aad&)
+![alt text](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/FlowchartDiagram_CPE-311.drawio.png)
 
 ## Conclusion
 
