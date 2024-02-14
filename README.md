@@ -43,7 +43,7 @@ Music plays while water is being dispensed.
 - [LM393 Speed Sensor](https://5.imimg.com/data5/VQ/DC/MY-1833510/lm393-motor-speed-measuring-sensor-module-for-arduino.pdf)
 
 ## Gantt chart
-![alt text](https://cdn.discordapp.com/attachments/855283190037217280/1206691653167882261/image.png?ex=65dcee2d&is=65ca792d&hm=edd1013c134faf54683bef2137a28e6831ea79a17fb3b1deb4f9e28e77005384&)
+![alt text](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/GanttChart.png)
 
 ## Waterfall Model
 ![alt text](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/waterfall.png)
