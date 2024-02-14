@@ -53,7 +53,7 @@ Music plays while water is being dispensed.
 
 
 ## Flowchart
-![alt text](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/FlowchartDiagram_CPE-311.drawio.png)
+![alt text](https://github.com/annnoftx/2566-CPE311-Vinsmoke/blob/main/Flowchart.png)
 
 ## Conclusion
 
